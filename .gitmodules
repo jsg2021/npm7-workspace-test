@@ -1,0 +1,9 @@
+[submodule "a"]
+	path = a
+	url = https://github.com/jsg2021/npm7-workspace-test-a.git
+[submodule "b"]
+	path = b
+	url = https://github.com/jsg2021/npm7-workspace-test-b.git
+[submodule "c"]
+	path = c
+	url = https://github.com/jsg2021/npm7-workspace-test-c.git
